@@ -5,6 +5,10 @@
 
 [![Proddyt-0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Proddy-0&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Proddy-0)
 
+<a href="https://github.com/Proddy-0">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Proddy-0&layout=compact&langs_count=8&card_width=320&theme=dark#gh-dark-mode-only" />
+</a>
+
 ## Technologies I use in my daily life
 
 
@@ -30,9 +34,3 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/proddyt)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@proddyt4205)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://aysllanaas@gmail.com)
-
-
-<!--
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ttps://discord.com/users/593918715255455795)
-
--->
