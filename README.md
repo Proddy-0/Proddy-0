@@ -48,16 +48,6 @@
 | [landing-page-cabral](https://github.com/Proddy-0/landing-page-cabral) | Landing page project built with modern web tools | TypeScript |
 | [Matematica_CTI](https://github.com/Proddy-0/Matematica_CTI) | Interactive mathematics resource for CTI studies | HTML |
 
-### Local Projects (In Progress)
-
-| Project | Description | Tech |
-|---|---|---|
-| somebet | Betting platform with backend and frontend | Node.js |
-| my-api | REST API with Express, Prisma & JWT authentication | TypeScript |
-| zmoi-backend | Content management backend with S3, Prisma & Express | TypeScript |
-| typescript | TypeScript exercises — OOP and fundamentals | TypeScript |
-| php | PHP experiments and studies | PHP |
-
 ### Daily Drive
 
 - **Node.js** & **TypeScript** — backend development with Express
@@ -69,8 +59,10 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-ruststaa.vercel.app/api?username=Proddy-0&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark&custom_title=GitHub+Stats" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-ruststaa.vercel.app/api/top-langs?username=Proddy-0&hide_title=true&layout=compact&langs_count=5&theme=dark&card_width=320" alt="Top Languages" />
+  <a href="https://github.com/Proddy-0?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-5-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Repos" /></a>
+  <a href="https://github.com/Proddy-0?tab=stars"><img src="https://img.shields.io/badge/Stars-1-E7DF28?style=for-the-badge&logo=github&logoColor=white" alt="Stars" /></a>
+  <a href="https://github.com/Proddy-0/Proddy-0/graphs/contributors"><img src="https://img.shields.io/badge/Activity-Consistent-b31b1b?style=for-the-badge&logo=github&logoColor=white" alt="Activity" /></a>
+  <a href="https://github.com/Proddy-0?tab=repositories"><img src="https://img.shields.io/badge/Languages-Vue%20%7C%20C%2B%2B%20%7C%20TypeScript%20%7C%20HTML-blue?style=for-the-badge" alt="Languages" /></a>
 </p>
 
 ---
