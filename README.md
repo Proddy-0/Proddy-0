@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Proddy-0&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 ### About
